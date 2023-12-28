@@ -69,7 +69,7 @@ local args = {
         [1] = {
             [1] = "Hard"
         },
-        [2] = "z"
+        [2] = "a"
     }
 }
 
@@ -80,7 +80,40 @@ local args = {
         [1] = {
             [1] = "Hard"
         },
-        [2] = "a"
+        [2] = "b"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "c"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "d"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "e"
     }
 }
 
@@ -102,7 +135,150 @@ local args = {
         [1] = {
             [1] = "Hard"
         },
-        [2] = "r"
+        [2] = "g"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "h"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "i"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "j"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "k"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "l"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "m"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "n"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "o"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "p"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "q"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "u"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)\
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "v"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "w"
     }
 }
 
@@ -124,9 +300,20 @@ local args = {
         [1] = {
             [1] = "Hard"
         },
-        [2] = "e"
+        [2] = "y"
     }
 }
 
 game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
-wait(15)
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Hard"
+        },
+        [2] = "z"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
